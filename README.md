@@ -8,4 +8,5 @@ of their elected representatives.
 The Result:
 Clustering of localitiees with the same distribution of votes for parties and presenting them on the map and how the economic status affects it.
 In the map the green areas is the localities that are high-economic status voting to similar parties as well as low-ecinomic localities voting to similar parties.
+
 <img width="159" alt="Untitled" src="https://user-images.githubusercontent.com/60240620/174953890-1d22c2e3-bfc3-44d5-87b3-89696b2d9428.png">
